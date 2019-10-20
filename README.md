@@ -1,5 +1,1 @@
-**2018年数学建模比赛与算法入门培训视频分享**
-
-扫下面二维码关注微信公众号，回复“数学建模”获取网盘链接
-
-![关注微信公众号](https://github.com/githubgavin/Training_videos_share/blob/master/%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
+[**2018年数学建模比赛与算法入门培训视频分享**](https://github.com/githubgavin/Training_videos_share/blob/master/2018%E5%B9%B4%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E6%AF%94%E8%B5%9B%E4%B8%8E%E7%AE%97%E6%B3%95%E5%85%A5%E9%97%A8%E5%9F%B9%E8%AE%AD%E8%A7%86%E9%A2%91.md)
